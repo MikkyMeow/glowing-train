@@ -1,0 +1,18 @@
+.root {
+  display: flex;
+  justify-content: space-between;
+}
+
+.root p {
+  width: 25%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+
+.input {
+  margin-bottom: 8px;
+}
